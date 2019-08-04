@@ -17,3 +17,12 @@ brew update
 ```
 brew install rabbitmq
 ```
+4.Before starting the application, execute the following in the Terminal
+```
+sudo rabbitmq-server
+```
+**Output;**
+
+![Screen Shot 2019-08-04 at 16 38 43](https://user-images.githubusercontent.com/25486099/62424373-96c10700-b6d6-11e9-90ad-47b142746125.png) 
+
+![Screen Shot 2019-08-04 at 16 39 08](https://user-images.githubusercontent.com/25486099/62424374-96c10700-b6d6-11e9-9552-56c7b24c5c1e.png)
