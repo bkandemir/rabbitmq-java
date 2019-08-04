@@ -26,3 +26,7 @@ sudo rabbitmq-server
 ![Screen Shot 2019-08-04 at 16 38 43](https://user-images.githubusercontent.com/25486099/62424373-96c10700-b6d6-11e9-90ad-47b142746125.png) 
 
 ![Screen Shot 2019-08-04 at 16 39 08](https://user-images.githubusercontent.com/25486099/62424374-96c10700-b6d6-11e9-9552-56c7b24c5c1e.png)
+
+![Screen Shot 2019-08-04 at 17 56 49](https://user-images.githubusercontent.com/25486099/62425221-5fa42300-b6e1-11e9-84d5-501f3eaa1417.png)
+
+![Screen Shot 2019-08-04 at 17 57 15](https://user-images.githubusercontent.com/25486099/62425220-5fa42300-b6e1-11e9-8848-9c16da80b365.png)
